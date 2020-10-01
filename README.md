@@ -1,2 +1,2 @@
 # PortfolioWebsite
-Simple portfolio website using HTML and CSS
+Simple but amazing portfolio website using HTML and CSS
