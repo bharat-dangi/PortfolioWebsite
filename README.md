@@ -8,3 +8,8 @@
 ## Demo Link
 https://mypersonal-portfolio-website.netlify.app/
 ## Introduction
+Portfolio Website adaptable to all devices, with UI compoments and animated interactions. I have used HTML, CSS and very less JavaScript to develop this project. This website contains sections like Home, Services, Projects, About and Contact.
+
+### `Technology used`
+HTML5, CSS3, JavaScript
+
